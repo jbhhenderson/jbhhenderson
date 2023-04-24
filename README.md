@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a full stack group project named Rare](https://github.com/nss-day-cohort-62/rare-v1-server-wildlings)
 
-- 🌱 I’m currently learning **Studying Python and SQL**
+- 🌱 I’m currently learning **Python and SQL**
 
 - 📫 How to reach me **jbhhenderson@gmail.com**
 
